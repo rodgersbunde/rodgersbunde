@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science/Data analytics jobs
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me on Linkedin @ https://www.linkedin.com/in/rodgers-bonaventure-849508219/
+- 📫 reach me on Linkedin @ https://www.linkedin.com/in/rodgers-bonaventure-849508219/
   
   
 
